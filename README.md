@@ -1,5 +1,7 @@
 ### OuiQln - A Uniqlo product page clone.
+
 # <img src="https://github.com/oui-qln/Nav-Proxy/blob/master/ouiqln.png" align="left" width="40" height="40"> 
+<br/>
 
 OuiQln is a JavaScript product page cloning the Uniqlo web design and refactoring the jQuery legacy code utilizing the React library. This project is the work of a team of software developers using three different micro services combined with a proxy server. 
 
